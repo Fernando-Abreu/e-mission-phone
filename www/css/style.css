@@ -11,6 +11,10 @@
   float: left
 }
 
+.button.button-icon.ion-help:before {
+  font-size: 25px;
+}
+
 .popup-buttons.row {
  height: 40px !important;
 }
@@ -1186,7 +1190,7 @@ html, body, #chart2, svg {
 .distance-button{
   width:25%;
   font-size: 12px;
-  font-weight: 700; 
+  font-weight: 700;
   overflow: hidden;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
@@ -1196,7 +1200,7 @@ html, body, #chart2, svg {
 .speed-button{
   width:25%;
   font-size: 12px;
-  font-weight: 700; 
+  font-weight: 700;
   overflow: hidden;
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
@@ -1206,7 +1210,7 @@ html, body, #chart2, svg {
 .trips-button{
   width:25%;
   font-size: 12px;
-  font-weight: 700; 
+  font-weight: 700;
   overflow: hidden;
   float: left;
   height: 30px;
@@ -1214,7 +1218,7 @@ html, body, #chart2, svg {
 .duration-button{
   width:25%;
   font-size: 12px;
-  font-weight: 700; 
+  font-weight: 700;
   overflow: hidden;
   float: left;
   height: 30px;
@@ -1222,7 +1226,7 @@ html, body, #chart2, svg {
 .distance-button-active{
   width:25%;
   font-size: 12px;
-  font-weight: 700; 
+  font-weight: 700;
   background-color: #01D0A7;
   color: white;
   overflow: hidden;
@@ -1234,7 +1238,7 @@ html, body, #chart2, svg {
 .speed-button-active{
   width:25%;
   font-size: 12px;
-  font-weight: 700; 
+  font-weight: 700;
   overflow: hidden;
   background-color: #01D0A7;
   color: white;
@@ -1246,7 +1250,7 @@ html, body, #chart2, svg {
 .trips-button-active{
   width:25%;
   font-size: 12px;
-  font-weight: 700; 
+  font-weight: 700;
   background-color: #01D0A7;
   color: white;
   overflow: hidden;
@@ -1256,7 +1260,7 @@ html, body, #chart2, svg {
 .duration-button-active{
   width:25%;
   font-size: 12px;
-  font-weight: 700; 
+  font-weight: 700;
   background-color: #01D0A7;
   color: white;
   overflow: hidden;
